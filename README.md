@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=M.%20Abdullah%20Janjua&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20RAG%20%7C%20LLMs%20%7C%20ETL%20%7C%20ML&descAlignY=56&descColor=8b949e" />
+
+# 👋 Hi, I'm M. Abdullah Janjua
+### Data & AI Engineer · Data Scientist · ML Engineer · Data Analyst
+
 </div>
 
 <h3 align="center">
@@ -98,7 +101,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahjanjuas&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahjanjuas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjanjuas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
