@@ -93,16 +93,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub At a Glance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahjanjuas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjanjuas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahjanjuas&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
+![Repos](https://img.shields.io/badge/Public%20Repos-26-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Experience](https://img.shields.io/badge/Internships-4-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Harvard%20HSIL-Finalist-red?style=for-the-badge&logo=harvard&logoColor=white)
+
 </div>
 
 ---
