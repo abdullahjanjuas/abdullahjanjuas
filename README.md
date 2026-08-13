@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm M. Abdullah Janjua
-### Data Scientist · AI Engineer · Data Engineer · ML Engineer
+### Data Scientist · Data & AI/ML Engineer
 
 </div>
 
@@ -14,7 +14,7 @@
 ## 👋 About Me
 
 🎓 **BS Data Science @ NUST** (Sept 2023 – Expected May 2027) — National University of Science and Technology, Islamabad
-🏦 Currently a **Data Scientist Intern @ S&P Global**, building agentic AI pipelines on enterprise Spark infrastructure for Fortune 500-scale financial data extraction
+🏦 **Data Scientist Intern @ S&P Global**, building agentic AI pipelines on enterprise Spark infrastructure for Fortune 500-scale financial data extraction
 🩺 Built a **healthcare AI pipeline** achieving >90% extraction accuracy & >95% reduction in turnaround time
 ⚡ Engineered a **3+ GB ETL system** with ~5x speed gains using Polars & PySpark
 🏆 **Harvard HSIL Hackathon Finalist** — Top team among 3,000+ global participants
